@@ -32,8 +32,6 @@ Our curriculum covers a wide spectrum of web development topics, including:
 
 - **Advanced Firebase Features:** Delve into Firebase's advanced features like Cloud Functions, Cloud Storage, and Cloud Messaging.
 
-- **Testing and Debugging:** Learn best practices for testing and debugging web applications, including unit testing, integration testing, and end-to-end testing.
-
 - **Deployment Strategies:** Master the art of deploying web applications to production, with insights into continuous integration and continuous delivery (CI/CD).
 
 ### Course Flexibility
