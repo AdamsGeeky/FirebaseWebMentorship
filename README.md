@@ -1,60 +1,91 @@
-# FirebaseWebMentorship
-From Zero to Firebase: The Complete Web Development Journey
+# Web Development Course Syllabus
 
+## Week 1
+- Introduction to web development
+- What is HTML, CSS, and JavaScript?
+- How does the web work?
+- Basic HTML and CSS syntax
+- Setting up your development environment
+  - Installing a code editor
+  - Setting up a web server
+- Version control with Git
 
-# Month 1: Introduction to Web Development
+## Week 2
+- HTML and CSS in more depth
+- HTML tags and attributes
+- CSS selectors and properties
+- Laying out web pages with CSS
+- Creating interactive web pages with JavaScript
+- JavaScript variables, functions, and objects
+- DOM manipulation
+- Event handling
 
-Week 1-2: Getting Started
+## Week 3
+- Introduction to Firebase
+- What is Firebase?
+- Creating a Firebase project
+- Authenticating users with Firebase
+- Storing data in Firebase
+  - Realtime Database
+  - Cloud Firestore
 
-Introduction to web development.
-HTML basics - structure, tags, elements.
-Setting up a simple HTML webpage.
-Week 3-4: Styling with CSS
+## Week 4
+- Retrieving data from Firebase
+- Realtime Database queries
+- Cloud Firestore queries
+- Displaying data on a web page
+  - Templates
+  - Data binding
 
-Introduction to CSS.
-Selectors, properties, and values.
-Applying styles to HTML elements.
-Creating basic webpage layouts.
+## Week 5
+- Building a simple web application with Firebase
+- Creating a user interface
+- Handling user input
+- Saving data to Firebase
+- Deploying your web application
+  - Firebase hosting
 
-# Month 2: Adding Interactivity with JavaScript
+## Week 6
+- Advanced HTML and CSS topics
+  - Forms
+  - CSS animations and transitions
+  - CSS preprocessors
+- Advanced JavaScript topics
+  - Asynchronous programming
+  - Object-oriented programming
+  - Functional programming
 
-Week 5-6: Introduction to JavaScript
+## Week 7
+- Advanced Firebase topics
+  - Cloud Functions
+  - Cloud Storage
+  - Cloud Messaging
 
-JavaScript basics - variables, data types, operators.
-Functions and event handling.
-DOM manipulation - changing HTML content and styles dynamically.
-Week 7-8: JavaScript Fundamentals
+## Week 8
+- Building a complex web application with Firebase
+  - Implementing authentication and authorization
+  - Handling real-time data updates
+  - Offline support
 
-Conditionals and loops.
-Arrays and objects.
-Introduction to asynchronous programming and callbacks.
-Week 9-10: Building Simple Web Apps
+## Week 9
+- Testing and debugging web applications
+  - Unit testing
+  - Integration testing
+  - End-to-end testing
+- Deploying your web application to production
+  - Continuous integration and continuous delivery (CI/CD)
 
-Building a basic to-do list application.
-Incorporating user input and form handling.
-Local storage for data persistence.
+## Week 10
+- Project presentations
+- Grading
+  - Class participation: 10%
+  - Homework assignments: 20%
+  - Final project: 30%
+  - Group project: 40% 
 
-# Month 3: Introduction to Firebase
-
-Week 11-12: Introduction to Firebase
-
-What is Firebase and its core services.
-Setting up a Firebase project.
-Firebase Authentication - user signup and login.
-Week 13-14: Firebase Realtime Database
-
-Structuring data in Firebase Realtime Database.
-Reading and writing data.
-Integrating Firebase with JavaScript web apps.
-Week 15-16: Firebase Hosting and Final Projects
-
-Deploying web apps to Firebase Hosting.
-Domain setup and HTTPS configuration.
-Mentees work on final projects integrating Firebase for data storage and authentication.
-Throughout the Program:
 
 # Mentorship and Support: 
-Regular one-on-one or group mentorship sessions to address questions, provide guidance, and offer feedback.
+Regular group mentorship sessions to address questions, provide guidance, and offer feedback.
 
 # Collaborative Projects: 
 Encourage mentees to collaborate on projects, fostering teamwork and practical experience.
